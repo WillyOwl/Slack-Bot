@@ -1,4 +1,4 @@
-# AipoBot - Agentic Slack Assistant
+# SlackBot - Agentic Slack Assistant
 
 A Slack bot with agentic capabilities that can answer questions and perform tasks using external APIs.
 
